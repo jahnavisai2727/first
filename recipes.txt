@@ -3,6 +3,8 @@ welcome to kitchen
 kheer
 pasta
 chicken
+Beans
+Pizza
 
 thank you :)
 
